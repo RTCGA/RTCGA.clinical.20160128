@@ -223,9 +223,20 @@ cat(
 #' 
 #' @details \\code{browseVignettes(\"RTCGA\")}
 #' 
+#' @param metadata A logical indicating whether load data into the workspace (default, \\code{FALSE}) or to only display the object's metadata (\\code{TRUE}). See examples.
+#' 
+#' @examples
+#' 
+#' \\dontrun{
+#' ", paste0(use_data_input[1], "(metadata = TRUE)"),"
+#' ", paste0(use_data_input[1], "(metadata = FALSE)"),"
+#' ", paste0(use_data_input[1], ""),"
+#' }
+#' 
 #' @import RTCGA
 #' @import ExperimentHub
 #' @importFrom utils read.csv
+#' @importFrom AnnotationHub query
 #' @format NULL
 #' @source \\url{http://gdac.broadinstitute.org/}
 #' 
@@ -258,8 +269,8 @@ cat(
             func = function(metadata = FALSE) {
                 if (!isNamespaceLoaded("ExperimentHub"))
                     attachNamespace("ExperimentHub")
-                eh <- query(ExperimentHub(), ', paste0('"', package, '"'),')
-                ehid <- names(query(eh, xx))
+                eh <- AnnotationHub::query(ExperimentHub(), ', paste0('"', package, '"'),')
+                ehid <- names(AnnotationHub::query(eh, xx))
                 if (!length(ehid))
                     stop(paste0("resource ", xx, 
                          "not found in ExperimentHub"))
@@ -279,7 +290,7 @@ createMETADATAtcga <- function(use_data_input, title, description, releaseDate){
   file.create('inst/scripts/make-metadata.R')
 cat(
 'meta <- data.frame(
-    Title = rep("',title,'",', length(use_data_input), '),
+    Title =', paste0('c("', paste0(use_data_input, collapse = '","'), '")'), ',
     Description = rep("',description,'",', length(use_data_input), '),
     BiocVersion = rep("3.4",', length(use_data_input), '),
     SourceUrl = "http://gdac.broadinstitute.org/",
@@ -299,7 +310,7 @@ write.csv(meta, file = "inst/extdata/metadata.csv", row.names = FALSE)
 library(RTCGA);library(magrittr);
 unlink(x=c('data_tmp', 'data', 'vignettes', 'README.md',
            'R', 'man', 'NAMESPACE', '.Rbuildignore', "inst"), recursive = TRUE)
-createTCGA(description = "DESCRIPTION", clean = TRUE)
+createTCGA(description = system.file("DESCRIPTION", package = "RTCGA.clinical.20160128"),
+           clean = TRUE)
 
-devtools::build()
 devtools::check()

@@ -7,9 +7,20 @@
 #' 
 #' @details \code{browseVignettes("RTCGA")}
 #' 
+#' @param metadata A logical indicating whether load data into the workspace (default, \code{FALSE}) or to only display the object's metadata (\code{TRUE}). See examples.
+#' 
+#' @examples
+#' 
+#' \dontrun{
+#'  ACC.clinical.20160128(metadata = TRUE) 
+#'  ACC.clinical.20160128(metadata = FALSE) 
+#'  ACC.clinical.20160128 
+#' }
+#' 
 #' @import RTCGA
 #' @import ExperimentHub
 #' @importFrom utils read.csv
+#' @importFrom AnnotationHub query
 #' @format NULL
 #' @source \url{http://gdac.broadinstitute.org/}
 #' 
