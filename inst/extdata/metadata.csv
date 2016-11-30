@@ -1,0 +1,171 @@
+"Title","Description","BiocVersion","SourceUrl","SourceVersion","DataProvided","Maintainer","RDataClass","ResourceName"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","ACC.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","BLCA.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","BRCA.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","CESC.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","CHOL.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","COADREAD.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","DLBC.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","ESCA.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","FPPP.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","GBMLGG.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","HNSC.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KICH.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIPAN.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIRC.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIRP.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LAML.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LIHC.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LUAD.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LUSC.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","MESO.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","OV.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PAAD.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PCPG.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PRAD.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","SARC.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","SKCM.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","STAD.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","STES.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","TGCT.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","THCA.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","THYM.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UCEC.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UCS.clinical.20160128"
+" Clinical datasets from The Cancer Genome Atlas Project from 2016-01-28 "," Package provides clinical datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. Clinical
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/
+Clinical+Data+Overview. Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UVM.clinical.20160128"

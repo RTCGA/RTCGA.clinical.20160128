@@ -1,3 +1,29 @@
+---
+title: "Using `RTCGA` package to download clinical data that are included in RTCGA.clinical.20160128 package" 
+subtitle: "Date of datasets release: 2016-01-28 "
+author: " Marcin Kosinski <m.p.kosinski@gmail.com> "
+date: " 17135 "
+output: rmarkdown::html_vignette 
+vignette: > 
+  %\VignetteIndexEntry{Using RTCGA package to download clinical data that are included in RTCGA.clinical.20160128 package"}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+
+```{r, echo=FALSE}
+library(knitr)
+opts_chunk$set(
+	comment = "",
+	message = FALSE,
+	warning = FALSE,
+	tidy.opts = list(
+		keep.blank.line = TRUE,
+		width.cutoff= 150),
+	options(width= 150),
+	eval = FALSE
+)
+```
 # RTCGA.clinical.20160128 
 
 This package was created with [`RTCGA::createTCGA()`](http://rtcga.github.io/RTCGA/staticdocs/createTCGA.html) function and is a part of [RTCGA](http://rtcga.github.io/RTCGA/) project. It consist of
