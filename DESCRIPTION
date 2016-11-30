@@ -15,7 +15,8 @@ LazyData: TRUE
 Repository: Bioconductor
 BugReports: https://github.com/RTCGA/RTCGA/issues
 Depends: R (>= 3.2.0), RTCGA, ExperimentHub
-Suggests: knitr
+Imports: AnnotationHub
+Suggests: knitr, 
 biocViews: Annotation Data
 VignetteBuilder: knitr
 NeedsCompilation: no

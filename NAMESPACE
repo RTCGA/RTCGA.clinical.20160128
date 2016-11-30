@@ -2,4 +2,5 @@
 
 import(ExperimentHub)
 import(RTCGA)
+importFrom(AnnotationHub,query)
 importFrom(utils,read.csv)

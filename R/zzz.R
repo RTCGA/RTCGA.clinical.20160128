@@ -13,8 +13,8 @@
             func = function(metadata = FALSE) {
                 if (!isNamespaceLoaded("ExperimentHub"))
                     attachNamespace("ExperimentHub")
-                eh <- query(ExperimentHub(),  "RTCGA.clinical.20160128" )
-                ehid <- names(query(eh, xx))
+                eh <- AnnotationHub::query(ExperimentHub(),  "RTCGA.clinical.20160128" )
+                ehid <- names(AnnotationHub::query(eh, xx))
                 if (!length(ehid))
                     stop(paste0("resource ", xx, 
                          "not found in ExperimentHub"))
