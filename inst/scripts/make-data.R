@@ -1,2 +1,2 @@
 library(RTCGA)
- createTCGA(description = "DESCRIPTION", clean = TRUE)
+ createTCGA(description = system.file("DESCRIPTION", package = "RTCGA.clinical.20160128"),      clean = TRUE)
